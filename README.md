@@ -1,6 +1,6 @@
 # MeSH NT to SQLite
 
-Converts MeSH *.nt files to SQLite DB instances.
+Download and convert MeSH *.nt files to SQLite databases.
 
 Refer to the following link for more information on MeSH data:
 
